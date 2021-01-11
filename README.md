@@ -93,6 +93,8 @@ To revive the hamburger menu, I used the micro interaction of animation to commu
 
 ## Planning & design prototyping 
 ![hamburger menu](./src/Images/hamburgerMenuWireframe)
+
+
 The planning and prototyping of the hamburger menu does absolute minimalism. The picture below depicts the prototyping and planning of interface, a regular logical approach in development has been taken to accomplish the final concept. The following are used in support of my iteration. The iPhone 8 Plus frames were created, along with plugins such as Material Design Icons. 
 
 ## Coding 
@@ -115,8 +117,6 @@ The feedback was recorded through a survey of questions. This component had cons
 ‌---
 
 ## 2. Login Screen
-
-![login screen](./src/components/LoginScreen/assets)
 
 ### Introduction and Research
 Introduction and Research 
