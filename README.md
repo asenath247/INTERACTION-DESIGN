@@ -47,15 +47,12 @@ The COM525 is a repository that consists of component library that provide solut
   * [Feedback and Reflection](#Feedback)
 
 ### 1. Hamburger Menu 
-![HamburgerMenu]
----
+![hamburger menu](./src/Images/hamburgerMenuWireframe.png)
 ### Research
 Introduction and Research 
-
 The introductory component is the Hamburger Menu, this is one of the fundamental elements of the user interface. It is required to provide the user with their way around, within a document, application, website etc. According to research, “Navigation is more than search” McGovern (2010), this justifies that it is a necessity for navigation to be included in most cases. The essence of the hamburger menu or sidebar specialises to directly drive the user forward to their destination of content. In this scenario, the purpose of the hamburger menu is to provide the user with insight and unity of what the remaining components. In implementation to this component, I utilised the methodology of the five-stage design thinking model by IDEO (1978) - “Emphasise, Define, Ideate, Prototype and Test”. Taking into the account of the core requirements such as - exploring the functionality and brainstorming, analysing observations and lastly being experimental with my results. All of which synthesise the concept desired.  
 
 ## Evaluation of guidelines  
-
 Hamburger menus are intended to be a smooth transition from place to place, centralisation on task-oriented access. The structure of this component is required to be most hierarchy. This system is most powerful in predictability. In study, the standard principles and elements of a Hamburger Menu is also essential in success of a basic navigation system.  
 
  
@@ -92,7 +89,8 @@ To revive the hamburger menu, I used the micro interaction of animation to commu
  
 
 ## Planning & design prototyping 
-![hamburger menu](./src/Images/hamburgerMenuWireframe)
+![hamburger menu](./src/Images/hamburgerMenuWireframe.png) 
+
 
 
 The planning and prototyping of the hamburger menu does absolute minimalism. The picture below depicts the prototyping and planning of interface, a regular logical approach in development has been taken to accomplish the final concept. The following are used in support of my iteration. The iPhone 8 Plus frames were created, along with plugins such as Material Design Icons. 
