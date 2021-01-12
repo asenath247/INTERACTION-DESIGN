@@ -83,7 +83,6 @@ To revive the hamburger menu, I used the micro interaction of animation to commu
  
 ## Planning & design prototyping 
 ![hamburger menu](./src/Images/hamburgerMenuWireframe.png)
-![hamburger menu palette](./src/Images/hamburgerMenuPalette.png)
 
 
 The planning and prototyping of the hamburger menu does absolute minimalism. The picture below depicts the prototyping and planning of interface, a regular logical approach in development has been taken to accomplish the final concept. The following are used in support of my iteration. The iPhone 8 Plus frames were created, along with plugins such as Material Design Icons. 
@@ -93,7 +92,7 @@ The planning and prototyping of the hamburger menu does absolute minimalism. The
 ![loader screen coding](./src/Images/hamburgerMenuCoding2.png)
 
 ## Walkthrough 
-![hamburger menu walkthrough](./src/Images/hamburgerMenuWT.gif)
+![hamburger menu walkthrough](./src/Images/hamburgerMenuVid.gif)
 
 ## Feedback & reflection 
 The feedback was recorded through a survey of questions. This component had constructive and reflective responses. One participant was able to recommend a visual element interesting to the eye, such as embedding imagery within the hamburger menu. To effectively manage the response, the strong innovative thinking and methodology of “How Might We” (HMV) is used to determine the atmosphere where possible solution can be discovered. In reflection, the research conducted previously was provided by resources of UXplanet and the Artonic Web, all of which revealed design principles used effectively to solve a real-life problem. The hamburger menu successfully executes the usability practices.Valuable learning experience was gained through the development of this hamburger menu, this is a modern approach to current standards of such in the creative industry.  
