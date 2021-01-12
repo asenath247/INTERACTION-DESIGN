@@ -48,16 +48,12 @@ The COM525 is a repository that consists of component library that provide solut
 
 ### 1. Hamburger Menu 
 
-
-### Research
-
-Introduction and Research 
+### Introduction and Research 
 The introductory component is the Hamburger Menu, this is one of the fundamental elements of the user interface. It is required to provide the user with their way around, within a document, application, website etc. According to research, “Navigation is more than search” McGovern (2010), this justifies that it is a necessity for navigation to be included in most cases. The essence of the hamburger menu or sidebar specialises to directly drive the user forward to their destination of content. In this scenario, the purpose of the hamburger menu is to provide the user with insight and unity of what the remaining components. In implementation to this component, I utilised the methodology of the five-stage design thinking model by IDEO (1978) - “Emphasise, Define, Ideate, Prototype and Test”. Taking into the account of the core requirements such as - exploring the functionality and brainstorming, analysing observations and lastly being experimental with my results. All of which synthesise the concept desired.  
 
 ## Evaluation of guidelines  
 Hamburger menus are intended to be a smooth transition from place to place, centralisation on task-oriented access. The structure of this component is required to be most hierarchy. This system is most powerful in predictability. In study, the standard principles and elements of a Hamburger Menu is also essential in success of a basic navigation system.  
 
- 
 Aspects of this component include: 
 
 <p align="center">
@@ -76,9 +72,7 @@ Animation – interactive elements such as a sliding or collapsing transition
 State changes – change in appearance 
 </p>
 
- Extra elements that could be embedded to a hamburger menu could be imagery and patterns. This is the creative attribute in this type of component.  
-
- In terms of typography, the hamburger menu usually consists of capitalised font, this is purposely used so that the user locates what they are in search for swiftly and smoothly. For instance, I have the selected the Roboto typeface, with this I capitalised the font in consideration of readability for the user.  
+Extra elements that could be embedded to a hamburger menu could be imagery and patterns. This is the creative attribute in this type of component. In terms of typography, the hamburger menu usually consists of capitalised font, this is purposely used so that the user locates what they are in search for swiftly and smoothly. For instance, I have the selected the Roboto typeface, with this I capitalised the font in consideration of readability for the user.  
 
 On the other hand, colours and contrast for this specific component is not too emphasised, this is because this component focuses on the navigation and destination for the user.  
 
@@ -96,14 +90,10 @@ The planning and prototyping of the hamburger menu does absolute minimalism. The
 
 ## Coding 
 ![loader screen coding](./src/Images/hamburgerMenuCoding.png)
-
- 
+![loader screen coding](./src/Images/hamburgerMenuCoding2.png)
 
 ## Walkthrough 
 ![hamburger menu walkthrough](./src/Images/hamburgerMenuWT.gif)
-
- 
-
 
 ## Feedback & reflection 
 The feedback was recorded through a survey of questions. This component had constructive and reflective responses. One participant was able to recommend a visual element interesting to the eye, such as embedding imagery within the hamburger menu. To effectively manage the response, the strong innovative thinking and methodology of “How Might We” (HMV) is used to determine the atmosphere where possible solution can be discovered. In reflection, the research conducted previously was provided by resources of UXplanet and the Artonic Web, all of which revealed design principles used effectively to solve a real-life problem. The hamburger menu successfully executes the usability practices.Valuable learning experience was gained through the development of this hamburger menu, this is a modern approach to current standards of such in the creative industry.  
@@ -132,9 +122,7 @@ The second component presented – the Login Screen, is the gateway to the stora
 
 IxDA (2020), expresses the importance of interactivity between the user and the interface - “Interaction designers strive to create meaningful relationships between people and the products”.  
 
-Producing an accurate guideline ensures the user of straightforward feasibility. To ensure the guidelines are abided by, I investigated the different types of principles and elements for a general login form.  
-
-In terms of accessibility, this form enlightens the user with their progress through a step-by-step indicator. It also notifies the user when fields are not completed to the right standards. Additionally, users also have chance to skip optional stages or return to the previous page in adaptability to their liking. Overall, I believe users are guided throughout this multi-step form in simplicity. Elements such as text field containers and buttons. Material io articulates the utilisation of crafting efficiently, complying with the user’s requirements. Text fields are to be unique and identified as a contrary to other surrounding elements as it is one of the main aspects of a login form. 
+Producing an accurate guideline ensures the user of straightforward feasibility. To ensure the guidelines are abided by, I investigated the different types of principles and elements for a general login form. In terms of accessibility, this form enlightens the user with their progress through a step-by-step indicator. It also notifies the user when fields are not completed to the right standards. Additionally, users also have chance to skip optional stages or return to the previous page in adaptability to their liking. Overall, I believe users are guided throughout this multi-step form in simplicity. Elements such as text field containers and buttons. Material io articulates the utilisation of crafting efficiently, complying with the user’s requirements. Text fields are to be unique and identified as a contrary to other surrounding elements as it is one of the main aspects of a login form. 
 
 A clear registration form fundamentally comprises of text fields such as: 
 
@@ -163,18 +151,14 @@ Here I also used standard naming conventions to feature my layers and assets in 
 ![login screen palette](./src/Images/loginScreenPalette.png)
 
 ## Coding 
-![login screen coding](./src/Images/LoginScreenCoding.png)
-
- 
+![login screen coding](./src/Images/LoginScreenCoding1.png)
+![login screen coding](./src/Images/LoginScreenCoding2.png)
 
 ## Walkthrough 
 ![login screen walkthrough](./src/Images/loginScreenWT1.gif)
 ![login screen walkthrough](./src/Images/loginScreenWT2.gif)
 
- 
-
 ## Feedback & reflection 
-
 Once again, the feedback was conducted by the methodology of “How Might We” (HMW), the brainstorming of questions and answers is offered to 5 participants through Google Forms. Feedback from participants indicate their constructive views on this component and its’ features. Various answers showed that the visuals are utmost to the audience and their digital experience. They indicated that the colours are consistently used, which is appealing to the eye and have aspects of Apple interface concepts. However, insightful feedback was also returned, text field could be recreated and positioned to fit the requirements of a standard interface. The feedback and reflection for the design concept has given me a wider insight on areas of improvement, potential solution in re-designing the elements.  
 ![login screen form1](./src/Images/loginScreenForm1.png)
 ![login screen form2](./src/Images/loginScreenForm2.png)
@@ -191,18 +175,16 @@ Once again, the feedback was conducted by the methodology of “How Might We” 
 ## 3. Loader Screen
 ![loader screen](./src/Images/loaderScreen.gif)
 
-
 ### Introduction and Research 
-
 The objective of the Loader Screen is to show the progress of the application loading. The user requires standard feedback about the ongoing events, this beneficial element assures where the user stands in the process. The loader Screen (also referred to as the splash screen) is described to “sets the scene for the rest of the app, inviting your users in from the cold, sterile apps that they use on a daily basis”. Campbell (2019). It’s aim is to provide immediate indication to the user, and signify the responsiveness of the functionality. “The launch screen isn’t an opportunity for artistic expression. It’s solely intended to enhance the perception of your app as quick to launch and immediately ready for use. Every app must supply a launch screen” Apple (2015). In summary, the minimal modifications are reviewed in detail. 
 
 ## Evaluation of guidelines  
-The modern approach to displaying these guidelines involve covering the device’s resolution. For instance, in my case I used a portrait iPhone 8 Plus screen to execute this splash screen. Furthermore, two gradient colours were chosen in the palette for this app – #ACB6E5, the secondary colour of COLOUR. Moreover, the colour of #86FDE8 is utilised to contrast precisely. These colours current fit the guidelines of a modern approach essentially, colours have been chosen and researched by the colour psychology to perceive, gain and communicate user awareness and attentiveness. On the other hand, the typography chosen – Roboto is in the colour black #00000. The background in the colour – white, meets the guidelines of appropriate and appealing guidelines to the eye. All elements are not in excessive use, to give the user a mindset of calmness. This concept is inclusive of conveying an ease of interpretation.
+The modern approach to displaying these guidelines involve covering the device’s resolution. For instance, in my case I used a portrait iPhone 8 Plus screen to execute this splash screen. Furthermore, two gradient colours were chosen in the palette for this app – #ACB6E5, the secondary colour of COLOUR. Moreover, the colour of #86FDE8 is utilised to contrast precisely. These colours current fit the guidelines of a modern approach essentially, colours have been chosen and researched by the colour psychology to perceive, gain and communicate user awareness and attentiveness. On the other hand, the typography chosen – Roboto is in the colour black #00000. The background in the colour – white, meets the guidelines of appropriate and appealing guidelines to the eye. All colours are displayed in the palette below. The elements are not in excessive use, to give the user a mindset of calmness, this concept is inclusive of conveying an ease of interpretation.
 
 Aspects of a loading screen include –  
 
 <p align="center">
-Animation – this acts to entertain the user as well as indicate the progress of the app 
+Animation – acts to entertain the user as well as indicate the progress of the app 
 </p>
 
 <p align="center">
@@ -217,10 +199,9 @@ Progress indication - to inform the user what’s happening
 In my case, I have included the use of animation through a GIF format. This was chosen to occupy the user with a sense of progress and transition.  
 
 ## Planning & design prototyping 
-In development, several screens were duplicated to capture the action of this GIF. All screens were exported and performed by TinyImage compress, in order to depict the movement and positioning of elements with the frames. My animation comprises of a simple wave, rising to certain points and then finally to the very top when the loading is finalized. This illustration was supported by the SVG plugin named – Get Waves. This is very useful as it can adjust and style the complexity of waves or curves in personalisation or completely randomize to liking. The animation of this component is at a speed of 150ms, which is approvable of the waiting time for the user. The final phase of this concept is to showcase in a iPhone 8 Plus frame.  
+In development, several screens were duplicated to capture the action of this GIF. All screens were exported and performed by TinyImage compress, in order to depict the movement and positioning of elements with the frames. My animation comprises of a simple wave, rising to certain points and then finally to the very top when the loading is finalized. This illustration was supported by the SVG plugin named – Get Waves. This is very useful, as it can adjust and style the complexity of waves or curves in personalisation or completely randomize to liking. The animation of this component is at a speed of 150ms, which is approvable of the waiting time for the user. The final phase of this concept is to showcase in an iPhone 8 Plus frame.  
 ![loader screen palette](./src/Images/paletteLoaderScreen.png)
 ![loader screen wireframe](./src/Images/loaderScreenWireframe.png)
-
 
 ## Coding 
 ![loader screen coding](./src/Images/loaderScreenCoding.png)
@@ -228,7 +209,6 @@ In development, several screens were duplicated to capture the action of this GI
 ## Walkthrough 
 ![loader screen walkthrough](./src/Images/loaderScreen.gif)
  
-
 ## Feedback & reflection 
 This component successfully and appropriately solved a real-life problem. In this instance, the user has been communicated to inform and reassure in a speedily manner. In addition to this, the user is also attentive of the motion in this component, the psychological principles of user engagement such as feedback, is expressed to give full information of the current state of the screen. All research has been in impactful in understanding the users needs or services, significant insights have been discovered, and so all elements work together to craft the best solution. The previous research conducted is used in best practices of designing and implementation.
 
@@ -241,12 +221,11 @@ This component successfully and appropriately solved a real-life problem. In thi
 ![loader screen coding](./src/Images/modalDialogue.png)
 
 ### Introduction and Ressearch
-As stated by Material UI, “The modal component provides a solid foundation for creating dialogues, popovers and light boxes.” This type of dialogue component is executed too keep visible whilst the background is faded, transparent with the colour grey. Additionally, the word “dialogue” depicts a conversation in this instance, the modal is in conversation with the user, this is because the user requests for information and the modal dialogue approves of that request in return. Additionally, Fessenden (2017) “Metal dialogues can be used to fragment a complex workflow into simpler steps ”. Fundamentally the modal dialogue principalities include a centred and direct window. 
+As stated by Material UI, “The modal component provides a solid foundation for creating dialogues, popovers and light boxes.” This type of dialogue component is executed too keep visible whilst the background is faded, transparent with the colour grey. Additionally, the word “dialogue” depicts a conversation in this instance, the modal is in conversation with the user, this is because the user requests for information and the modal dialogue approves of that request in return. Additionally, Fessenden (2017) mentions that “Metal dialogues can be used to fragment a complex workflow into simpler steps ”. Fundamentally the modal dialogue principalities include a centred and direct window. 
 
  
 
 ## Evaluation of guidelines  
-
 Producing and fitting this modal dialogue in a modern approach, required containing feasibility. This component blocks content in default and  
 
 displays two combined ellipses. The first ellipse colour is in - #DCA3FF, a light lilac. The second in - #A3C2FF, a mid-blue. Third in - #FBD8DE, a light pink. Lastly, in # CCF9FF, a light blue. All selected colours reflect of a pastel palette.  
@@ -265,7 +244,7 @@ To successfully execute the planning and prototyping, constraints and ruler guid
  
 
 ## Coding 
-![modal dialogue coding](./src/Images/modalDialogue.png)
+![modal dialogue coding](./src/Images/modalDialogueCoding.png)
  
 
 ## Walkthrough 
@@ -279,6 +258,11 @@ In conclusion, this component has successfully been created to fit the requireme
  
 
 The feedback and reflection for the design concept has given me a wider insight on areas of improvement, potential solution in re-creating the features of my component.  
+[1^] Material UI.COM., 2020. React Modal component - Material-UI [viewed 18th December 2020]. Available from: https://material-ui.com/components/modal/
+
+[2^] Fessenden, T. (2017). First Impressions Matter: How Designers Can Support Automatic Cognitive Processing. [online] Nielsen Norman Group. Available at: https://www.nngroup.com/articles/first-impressions-human-automaticity/ [Accessed 20 Dec. 2020].
+
+[3^] Bernardino, I. (2020). A guide to minimalist design. [online] Medium. Available at: https://uxdesign.cc/a-guide-to-minimalist-design-36da72d52431 [Accessed 18 Dec. 2020].
 
  ---
 
@@ -288,15 +272,12 @@ The feedback and reflection for the design concept has given me a wider insight 
 ![notification](./src/Images/notification.png)
 
 
-The last reusable component designed is Notifications and Alerts. “A notification is generally defined as a visual cue, auditory signal, or haptic alert generated by an application or service to capture the user’s attention”. This is a crucial feature of any device, as it returns to the user with contemporary information from any platform. Examples of digital platforms are an email notification, social media, general device settings etc. 
+The last reusable component designed is Notifications and Alerts. “A notification is generally defined as a visual cue, auditory signal, or haptic alert generated by an application or service to capture the user’s attention” Iqbal and Horvitz (2010). This is a crucial feature of any device, as it returns to the user with contemporary information from any platform. Examples of digital platforms are an email notification, social media, general device settings etc. 
 
 The use of notifications enhances the communicative form of feedback to user experience and the user interface it's less intrusive and keep users up to date with live updates, proactively help users gain information awareness and other alerts. The best practices for a static design consist of a pop-visual, with text and options for the user to choose from. 
 
 Studies have shown that notifications occur and perhaps interrupt the user with their ongoing tasks. This will occasionally distract and suspend the user from previous actions and possibly open and seek more information about the notification displayed.  
 
- 
-
- 
 
 ## Evaluation of guidelines 
 
@@ -322,6 +303,10 @@ The animation of this type of component is to appear in a zooming motion. This w
 ## Feedback and reflection 
 
 The use of geometric shaping was involved due to the popularity. Overall, this component works to perform search for the real-world solution. While effectively complying to the fitting of the creative industry.   
+
+[1^] Iqbal, S. and Horvitz, E. (2010). Notifications and Awareness: A Field Study of Alert Usage and Preferences. www.microsoft.com, [online] 561. Available at: https://www.microsoft.com/en-us/research/publication/notifications-and-awareness-a-field-study-of-alert-usage-and-preferences/ [Accessed 22 Dec. 2020].
+
+
 
  
 
