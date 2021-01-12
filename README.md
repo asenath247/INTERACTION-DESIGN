@@ -9,7 +9,7 @@ The COM525 is a repository that consists of component library that provide solut
   * [Research and Introduction](#research)
   * [Evaluation of guidelines](#evaluation-of-guidelines)
   * [Planning and Design prototyping](#planning-and-design-prototyping)
-  * [Coding:](#coding-)
+  * [Coding](#coding-)
   * [Walkthrough](#Walkthrough)
   * [Feedback and Reflection](#Feedback)
 
@@ -18,7 +18,7 @@ The COM525 is a repository that consists of component library that provide solut
   * [Research and Introduction](#research)
   * [Evaluation of guidelines](#evaluation-of-guidelines)
   * [Planning and Design prototyping](#planning-and-design-prototyping)
-  * [Coding:](#coding-)
+  * [Coding](#coding-)
   * [Walkthrough](#Walkthrough)
   * [Feedback and Reflection](#Feedback)
 
@@ -26,7 +26,7 @@ The COM525 is a repository that consists of component library that provide solut
   * [Research and Introduction](#research)
   * [Evaluation of guidelines](#evaluation-of-guidelines)
   * [Planning and Design prototyping](#planning-and-design-prototyping)
-  * [Coding:](#coding-)
+  * [Coding](#coding-)
   * [Walkthrough](#Walkthrough)
   * [Feedback and Reflection](#Feedback)
 
@@ -34,7 +34,7 @@ The COM525 is a repository that consists of component library that provide solut
   * [Research and Introduction](#research)
   * [Evaluation of guidelines](#evaluation-of-guidelines)
   * [Planning and Design prototyping](#planning-and-design-prototyping)
-  * [Coding:](#coding-)
+  * [Coding](#coding-)
   * [Walkthrough](#Walkthrough)
   * [Feedback and Reflection](#Feedback)
 
@@ -42,7 +42,7 @@ The COM525 is a repository that consists of component library that provide solut
   * [Research and Introduction](#research)
   * [Evaluation of guidelines](#evaluation-of-guidelines)
   * [Planning and Design prototyping](#planning-and-design-prototyping)
-  * [Coding:](#coding-)
+  * [Coding](#coding-)
   * [Walkthrough](#Walkthrough)
   * [Feedback and Reflection](#Feedback)
 
