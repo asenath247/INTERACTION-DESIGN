@@ -3,7 +3,7 @@
 #### Located in: https://github.com/asenath247/INTERACTION-DESIGN/new/main?readme=1
 
 ## Introduction 
-The COM525 is a repository that consists of component library that provide solutions to real-life preoblems. Components are design with React, through .js, .css and HTML. 
+The COM525 is a repository that consists of component library that provide solutions to real-life preoblems. Components are designed by Figma and executed with React, through .js, .css and HTML. 
 
 [1. Hamburger Menu ](#1-Hamburger-Menu)
   * [Research and Introduction](#research)
