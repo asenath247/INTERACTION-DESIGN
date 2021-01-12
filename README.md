@@ -30,7 +30,7 @@ The COM525 is a repository that consists of component library that provide solut
   * [Walkthrough](#Walkthrough)
   * [Feedback and Reflection](#Feedback)
 
-[4. Modal Dialogue ](#1-Hamburger-Menu)
+[4. Modal Dialogue ](#1-Modal-Dialogue)
   * [Research and Introduction](#research)
   * [Evaluation of guidelines](#evaluation-of-guidelines)
   * [Planning and Design prototyping](#planning-and-design-prototyping)
@@ -38,7 +38,7 @@ The COM525 is a repository that consists of component library that provide solut
   * [Walkthrough](#Walkthrough)
   * [Feedback and Reflection](#Feedback)
 
-[5. Alerts & Notifications ](#1-Hamburger-Menu)
+[5. Alerts & Notifications ](#1-notifications)
   * [Research and Introduction](#research)
   * [Evaluation of guidelines](#evaluation-of-guidelines)
   * [Planning and Design prototyping](#planning-and-design-prototyping)
@@ -296,7 +296,7 @@ The animation of this type of component is to appear in a zooming motion. This w
  
 
 ## Walkthrough 
-![notification walkthrough](./src/Images/notificationVid.gif)
+![notification walkthrough](./src/Images/notificationWT.gif)
  
 
 ## Feedback and reflection 
