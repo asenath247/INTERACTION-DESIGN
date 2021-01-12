@@ -47,12 +47,10 @@ The COM525 is a repository that consists of component library that provide solut
   * [Feedback and Reflection](#Feedback)
 
 ### 1. Hamburger Menu 
-![hamburger menu](./src/Images/hamburgerMenu1.png)
-![hamburger menu](./src/Images/hamburgerMenu2.png)
-![hamburger menu](./src/Images/hamburgerMenu3.png)
 
 
 ### Research
+
 Introduction and Research 
 The introductory component is the Hamburger Menu, this is one of the fundamental elements of the user interface. It is required to provide the user with their way around, within a document, application, website etc. According to research, “Navigation is more than search” McGovern (2010), this justifies that it is a necessity for navigation to be included in most cases. The essence of the hamburger menu or sidebar specialises to directly drive the user forward to their destination of content. In this scenario, the purpose of the hamburger menu is to provide the user with insight and unity of what the remaining components. In implementation to this component, I utilised the methodology of the five-stage design thinking model by IDEO (1978) - “Emphasise, Define, Ideate, Prototype and Test”. Taking into the account of the core requirements such as - exploring the functionality and brainstorming, analysing observations and lastly being experimental with my results. All of which synthesise the concept desired.  
 
@@ -85,27 +83,24 @@ State changes – change in appearance
 On the other hand, colours and contrast for this specific component is not too emphasised, this is because this component focuses on the navigation and destination for the user.  
 
 To revive the hamburger menu, I used the micro interaction of animation to communicate feedback and state changes to return user-initiated triggers of the systems status. I believe this is significant because it heightens the user experience.  
+![hamburger menu](./src/Images/hamburgerMenu2.png)
+
 
  
-
- 
-
- 
-
 ## Planning & design prototyping 
-![hamburger menu](./src/Images/hamburgerMenuWireframe.png) 
-
+![hamburger menu](./src/Images/hamburgerMenuWireframe.png)
+![hamburger menu palette](./src/Images/hamburgerMenuPalette.png)
 
 
 The planning and prototyping of the hamburger menu does absolute minimalism. The picture below depicts the prototyping and planning of interface, a regular logical approach in development has been taken to accomplish the final concept. The following are used in support of my iteration. The iPhone 8 Plus frames were created, along with plugins such as Material Design Icons. 
 
 ## Coding 
-
- 
+![loader screen coding](./src/Images/hamburgerMenuCoding.png)
 
  
 
 ## Walkthrough 
+![hamburger menu walkthrough](./src/Images/hamburgerMenuWT.gif)
 
  
 
@@ -116,9 +111,14 @@ The feedback was recorded through a survey of questions. This component had cons
 ---
 [^1]: Goldman, Shelley. “History.” IDEO | Design Thinking, 2015, designthinking.ideo.com/history#:~:text=IDEO%20is%20often%20credited%20with. Accessed 12 Dec. 2020.
 
-‌---
+---
 
 ## 2. Login Screen
+![login screen](./src/Images/loginScreen1.png) 
+![login screen](./src/Images/loginScreen2.png) 
+![login screen](./src/Images/loginScreen3.png) 
+![login screen](./src/Images/loginScreen4.png) 
+![login screen](./src/Images/loginScreen5.png) 
 
 
 
@@ -127,11 +127,9 @@ Introduction and Research
 
 The second component presented – the Login Screen, is the gateway to the storage of personal information by user input. It is required to provide feedback to the user in a clear and logical manner. Based on the conducted study, the execution of an accessible interface is most essential, there is a major search for high user experience and user usability. The real-world problem is based on the concept of a portal app intended for university students, the authentication of an existing profile is determined by going through the phases of signing in or creating a new account. In this case, my approach to design presents a series of methodical stages in multi-page login form.  
 
- 
-
- 
-
 ## Evaluation of guidelines  
+![login screen dark](./src/Images/loginScreen1Dark.png) 
+
 IxDA (2020), expresses the importance of interactivity between the user and the interface - “Interaction designers strive to create meaningful relationships between people and the products”.  
 
 Producing an accurate guideline ensures the user of straightforward feasibility. To ensure the guidelines are abided by, I investigated the different types of principles and elements for a general login form.  
@@ -150,44 +148,49 @@ Login button
 </p>
 </p>
 
- 
-
 Furthermore, extra elements can be contained, these are: other sign in options - such as google and email, commonly interlinked and incorporated in login screens to simplify the process of filling in a form. Being selective of readable fonts, layouts and avoiding the excessive use of colours and contrasts is significant in the concept of readability. In this case, I utilised the Montserrat typeface, this specific typeface was chosen as it meets the requirements of a clear and strong visual hierarchy. The four main colours chosen are displayed in the image below. This was originally chosen because I wanted to form a flexible trendy combination of a mid-pastel palette.  
 
- 
-
- 
-
-  
-
-## Planning & design prototyping 
+## Planning & Design Prototyping 
+![login screen](./src/Images/iPhone8Plus-1.png) 
+![login screen](./src/Images/iPhone8Plus-2.png) 
+![login screen](./src/Images/iPhone8Plus-3.png) 
+![login screen](./src/Images/iPhone8Plus-4.png) 
+![login screen](./src/Images/iPhone8Plus-5.png) 
 
 The interface elements are precisely coordinated with layout and is representative of a simplified structure. The prototyping and wireframing involves a series of development and iterative sketching. 
 
 Here I also used standard naming conventions to feature my layers and assets in a systematic approach. All components have been defined, differentiated, and effectively deployed.  
-
- 
+![login screen palette](./src/Images/loginScreenPalette.png)
 
 ## Coding 
+![login screen coding](./src/Images/LoginScreenCoding.png)
 
  
 
 ## Walkthrough 
+![login screen walkthrough](./src/Images/loginScreenWT1.gif)
+![login screen walkthrough](./src/Images/loginScreenWT2.gif)
 
  
 
 ## Feedback & reflection 
 
 Once again, the feedback was conducted by the methodology of “How Might We” (HMW), the brainstorming of questions and answers is offered to 5 participants through Google Forms. Feedback from participants indicate their constructive views on this component and its’ features. Various answers showed that the visuals are utmost to the audience and their digital experience. They indicated that the colours are consistently used, which is appealing to the eye and have aspects of Apple interface concepts. However, insightful feedback was also returned, text field could be recreated and positioned to fit the requirements of a standard interface. The feedback and reflection for the design concept has given me a wider insight on areas of improvement, potential solution in re-designing the elements.  
+![login screen form1](./src/Images/loginScreenForm1.png)
+![login screen form2](./src/Images/loginScreenForm2.png)
+![login screen form3](./src/Images/loginScreenForm3.png)
+![login screen](./src/Images/loginScreen1.png)
+
 
 [^1]IxDA. “About & History – Interaction Design Association – IxDA.” Ixda.org, 2017, ixda.org/ixda-global/about-history/#:~:text=What%20is%20interaction%20design%3F. Accessed 14 Dec. 2020.
 
-‌
+
 
 ---
 
 ## 3. Loader Screen
-![Forms and User Feedback] (./src/components/HamburgerMenu/assets/ID - Loading Screens, WK1 07-Jan-2021-225340.gif)
+![loader screen](./src/Images/loaderScreen.gif)
+
 
 ### Introduction and Research 
 
@@ -214,37 +217,31 @@ Progress indication - to inform the user what’s happening
 In my case, I have included the use of animation through a GIF format. This was chosen to occupy the user with a sense of progress and transition.  
 
 ## Planning & design prototyping 
-
 In development, several screens were duplicated to capture the action of this GIF. All screens were exported and performed by TinyImage compress, in order to depict the movement and positioning of elements with the frames. My animation comprises of a simple wave, rising to certain points and then finally to the very top when the loading is finalized. This illustration was supported by the SVG plugin named – Get Waves. This is very useful as it can adjust and style the complexity of waves or curves in personalisation or completely randomize to liking. The animation of this component is at a speed of 150ms, which is approvable of the waiting time for the user. The final phase of this concept is to showcase in a iPhone 8 Plus frame.  
+![loader screen palette](./src/Images/paletteLoaderScreen.png)
+![loader screen wireframe](./src/Images/loaderScreenWireframe.png)
 
- 
 
 ## Coding 
-  
-
- 
+![loader screen coding](./src/Images/loaderScreenCoding.png)
 
 ## Walkthrough 
- 
-
+![loader screen walkthrough](./src/Images/loaderScreen.gif)
  
 
 ## Feedback & reflection 
-
-
 This component successfully and appropriately solved a real-life problem. In this instance, the user has been communicated to inform and reassure in a speedily manner. In addition to this, the user is also attentive of the motion in this component, the psychological principles of user engagement such as feedback, is expressed to give full information of the current state of the screen. All research has been in impactful in understanding the users needs or services, significant insights have been discovered, and so all elements work together to craft the best solution. The previous research conducted is used in best practices of designing and implementation.
 
 [^1] Campbell, Duncan. “Building the Perfect Splash Screen.” Medium, 9 Mar. 2019, uxdesign.cc/building-the-perfect-splash-screen-46e080395f06. Accessed 8 Dec. 2020.
 
-‌[^2] Developers Inc., Apple. “Launch Screen - Visual Design - IOS - Human Interface Guidelines - Apple Developer.” Developer.Apple.com, 2015, developer.apple.com/design/human-interface-guidelines/ios/visual-design/launch-screen/. Accessed 8 Jan. 2021.
+[^2] Developers Inc., Apple. “Launch Screen - Visual Design - IOS - Human Interface Guidelines - Apple Developer.” Developer.Apple.com, 2015, developer.apple.com/design/human-interface-guidelines/ios/visual-design/launch-screen/. Accessed 8 Jan. 2021.
 
-‌
+
 ## 4. Modal Dialogue  
+![loader screen coding](./src/Images/modalDialogue.png)
 
 ### Introduction and Ressearch
-As stated by Material UI, “The modal component provides a solid foundation for creating dialogues, popovers and light boxes.” This type of dialogue component is executed too keep visible whilst the background is faded, transparent with the colour grey. Additionally, the word “dialogue” depicts a conversation in this instance, the modal is in conversation with the user, this is because the user requests for information and the modal dialogue approves of that request in return. Additionally, Fessenden (2017) “Metal dialogues can be used to fragment a complex workflow into simpler steps ”. 
-
-Fundamentally the modal dialogue principalities include a centred and direct window. 
+As stated by Material UI, “The modal component provides a solid foundation for creating dialogues, popovers and light boxes.” This type of dialogue component is executed too keep visible whilst the background is faded, transparent with the colour grey. Additionally, the word “dialogue” depicts a conversation in this instance, the modal is in conversation with the user, this is because the user requests for information and the modal dialogue approves of that request in return. Additionally, Fessenden (2017) “Metal dialogues can be used to fragment a complex workflow into simpler steps ”. Fundamentally the modal dialogue principalities include a centred and direct window. 
 
  
 
@@ -264,13 +261,15 @@ In terms of accessibility, this modal dialogue enlightens the user with informat
 
 To successfully execute the planning and prototyping, constraints and ruler guidelines are used to have a systematic layout. The simple use of wireframing and fidelity sketching in Figma convey the development of my ideation. Using geometric shape elements such as rectangles to build an illustration. To follow the creative industry standards, my concept follows a subtle, minimalistic theme. Bernadino (2020) at UX collective states that -  “the minimalist design concept invites you to embrace the emptiness and to use it as part of your art.” 
 
+![modal dialogue](./src/Images/modalDialoguePalette.png)
  
 
 ## Coding 
-
+![modal dialogue coding](./src/Images/modalDialogue.png)
  
 
 ## Walkthrough 
+![modal dialogue walkthrough](./src/Images/modalDialogueWT.gif)
 
  
 
@@ -286,6 +285,8 @@ The feedback and reflection for the design concept has given me a wider insight 
 ### 5. Alerts & Notifications
 
  ## Introduction and research  
+![notification](./src/Images/notification.png)
+
 
 The last reusable component designed is Notifications and Alerts. “A notification is generally defined as a visual cue, auditory signal, or haptic alert generated by an application or service to capture the user’s attention”. This is a crucial feature of any device, as it returns to the user with contemporary information from any platform. Examples of digital platforms are an email notification, social media, general device settings etc. 
 
@@ -310,11 +311,12 @@ Following colours used complement each other in contrast, the primary colour - #
 The animation of this type of component is to appear in a zooming motion. This will ensure that the alert is hierarchy and on top of the content behind the notification. The findability of the notification is in ease of use for the user, this is because the notification is conducted and encouraged to be acted on desirable of the user. 
 
 ## Coding 
+![notification coding](./src/Images/notificationCoding.png)
 
  
 
 ## Walkthrough 
-
+![notification walkthrough](./src/Images/notificationVid.gif)
  
 
 ## Feedback and reflection 
