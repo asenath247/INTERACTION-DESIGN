@@ -92,7 +92,7 @@ The planning and prototyping of the hamburger menu does absolute minimalism. The
 ![loader screen coding](./src/Images/hamburgerMenuCoding2.png)
 
 ## Walkthrough 
-![hamburger menu walkthrough](./src/Images/hamburgerMenuVid.gif)
+![hamburger menu walkthrough](./src/Images/hamburgerMenuWT.gif)
 
 ## Feedback & reflection 
 The feedback was recorded through a survey of questions. This component had constructive and reflective responses. One participant was able to recommend a visual element interesting to the eye, such as embedding imagery within the hamburger menu. To effectively manage the response, the strong innovative thinking and methodology of “How Might We” (HMV) is used to determine the atmosphere where possible solution can be discovered. In reflection, the research conducted previously was provided by resources of UXplanet and the Artonic Web, all of which revealed design principles used effectively to solve a real-life problem. The hamburger menu successfully executes the usability practices.Valuable learning experience was gained through the development of this hamburger menu, this is a modern approach to current standards of such in the creative industry.  
@@ -217,7 +217,7 @@ This component successfully and appropriately solved a real-life problem. In thi
 
 
 ## 4. Modal Dialogue  
-![loader screen coding](./src/Images/modalDialogue.png)
+![loader screen](./src/Images/modalDialogue.png)
 
 ### Introduction and Ressearch
 As stated by Material UI, “The modal component provides a solid foundation for creating dialogues, popovers and light boxes.” This type of dialogue component is executed too keep visible whilst the background is faded, transparent with the colour grey. Additionally, the word “dialogue” depicts a conversation in this instance, the modal is in conversation with the user, this is because the user requests for information and the modal dialogue approves of that request in return. Additionally, Fessenden (2017) mentions that “Metal dialogues can be used to fragment a complex workflow into simpler steps ”. Fundamentally the modal dialogue principalities include a centred and direct window. 
@@ -239,7 +239,7 @@ In terms of accessibility, this modal dialogue enlightens the user with informat
 
 To successfully execute the planning and prototyping, constraints and ruler guidelines are used to have a systematic layout. The simple use of wireframing and fidelity sketching in Figma convey the development of my ideation. Using geometric shape elements such as rectangles to build an illustration. To follow the creative industry standards, my concept follows a subtle, minimalistic theme. Bernadino (2020) at UX collective states that -  “the minimalist design concept invites you to embrace the emptiness and to use it as part of your art.” 
 
-![modal dialogue](./src/Images/modalDialoguePalette.png)
+![modal dialogue palette](./src/Images/modalDialoguePalette.png)
  
 
 ## Coding 
