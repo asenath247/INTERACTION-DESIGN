@@ -51,7 +51,7 @@ The COM525 is a repository that consists of component library that provide solut
 ### Introduction and Research 
 The introductory component is the Hamburger Menu, this is one of the fundamental elements of the user interface. It is required to provide the user with their way around, within a document, application, website etc. According to research, “Navigation is more than search” McGovern (2010), this justifies that it is a necessity for navigation to be included in most cases. The essence of the hamburger menu or sidebar specialises to directly drive the user forward to their destination of content. In this scenario, the purpose of the hamburger menu is to provide the user with insight and unity of what the remaining components. In implementation to this component, I utilised the methodology of the five-stage design thinking model by IDEO (1978) - “Emphasise, Define, Ideate, Prototype and Test”. Taking into the account of the core requirements such as - exploring the functionality and brainstorming, analysing observations and lastly being experimental with my results. All of which synthesise the concept desired. 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/hamburgerMenu2.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/hamburgerMenu2.png" width="250" height="250" /> </p>
 
 
 ## Evaluation of guidelines  
@@ -115,19 +115,19 @@ The feedback was recorded through a survey of questions. This component had cons
 
 ## 2. Login Screen
 <p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen1.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen1.png" width="250" height="250" /> </p>
 
 <p align="right">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen2.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen2.png" width="250" height="250" /> </p>
      
 <p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen3.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen3.png" width="250" height="250" /> </p>
           
 <p align="right">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen4.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen4.png" width="250" height="250" /> </p>
 
 <p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen5.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen5.png" width="250" height="250" /> </p>
 
 
 
