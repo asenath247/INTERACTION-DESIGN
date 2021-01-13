@@ -51,7 +51,7 @@ The COM525 is a repository that consists of component library that provide solut
 ### Introduction and Research 
 The introductory component is the Hamburger Menu, this is one of the fundamental elements of the user interface. It is required to provide the user with their way around, within a document, application, website etc. According to research, “Navigation is more than search” McGovern (2010), this justifies that it is a necessity for navigation to be included in most cases. The essence of the hamburger menu or sidebar specialises to directly drive the user forward to their destination of content. In this scenario, the purpose of the hamburger menu is to provide the user with insight and unity of what the remaining components. In implementation to this component, I utilised the methodology of the five-stage design thinking model by IDEO (1978) - “Emphasise, Define, Ideate, Prototype and Test”. Taking into the account of the core requirements such as - exploring the functionality and brainstorming, analysing observations and lastly being experimental with my results. All of which synthesise the concept desired. 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/hamburgerMenu2.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenu2.png" </p>
 
 
 ## Evaluation of guidelines  
@@ -81,29 +81,29 @@ On the other hand, colours and contrast for this specific component is not too e
 
 To revive the hamburger menu, I used the micro interaction of animation to communicate feedback and state changes to return user-initiated triggers of the systems status. I believe this is significant because it heightens the user experience.  
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/hamburgerMenu1.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenu1.png" </p>
 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/hamburgerMenu3.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenu3.png" </p>
 
 
  
 ## Planning & design prototyping 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/hamburgerMenuWireframe.png") </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenuWireframe.png") </p>
 
 
 The planning and prototyping of the hamburger menu does absolute minimalism. The picture below depicts the prototyping and planning of interface, a regular logical approach in development has been taken to accomplish the final concept. The following are used in support of my iteration. The iPhone 8 Plus frames were created, along with plugins such as Material Design Icons. 
 
 ## Coding <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src//Images/hamburgerMenuCoding.png" width="250" height="300"/> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src//Images/hamburgerMenuCoding.png" width="250" height="300"/> </p>
      
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src//Images/hamburgerMenuCoding2.png" width="250" height="300"/> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src//Images/hamburgerMenuCoding2.png" width="250" height="300"/> </p>
 
 ## Walkthrough 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/hamburgerMenuWT.gif" </p>  
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenuWT.gif" </p>  
 
 ## Feedback & reflection 
 The feedback was recorded through a survey of questions. This component had constructive and reflective responses. One participant was able to recommend a visual element interesting to the eye, such as embedding imagery within the hamburger menu. To effectively manage the response, the strong innovative thinking and methodology of “How Might We” (HMV) is used to determine the atmosphere where possible solution can be discovered. In reflection, the research conducted previously was provided by resources of UXplanet and the Artonic Web, all of which revealed design principles used effectively to solve a real-life problem. The hamburger menu successfully executes the usability practices.Valuable learning experience was gained through the development of this hamburger menu, this is a modern approach to current standards of such in the creative industry.  
@@ -115,19 +115,19 @@ The feedback was recorded through a survey of questions. This component had cons
 
 ## 2. Login Screen
 <p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen1.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen1.png" </p>
 
 <p align="right">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen2.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen2.png" </p>
      
 <p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen3.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen3.png" </p>
           
 <p align="right">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen4.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen4.png" </p>
 
 <p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen5.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen5.png" </p>
 
 
 
@@ -138,7 +138,7 @@ The second component presented – the Login Screen, is the gateway to the stora
 
 ## Evaluation of guidelines  
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/Images/loginScreen1Dark.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen1Dark.png" width="250" height="300" /> </p>
 
 IxDA (2020), expresses the importance of interactivity between the user and the interface - “Interaction designers strive to create meaningful relationships between people and the products”.  
 
@@ -160,22 +160,22 @@ Furthermore, extra elements can be contained, these are: other sign in options -
 
 ## Planning & Design Prototyping 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/iPhone8Plus-1.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-1.png" </p>
      
      
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/iPhone8Plus-2.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-2.png" </p>
      
 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/iPhone8Plus-3.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-3.png" </p>
      
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/iPhone8Plus-4.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-4.png" </p>
      
      
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/iPhone8Plus-5.png" </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-5.png" </p>
 
 The interface elements are precisely coordinated with layout and is representative of a simplified structure. The prototyping and wireframing involves a series of development and iterative sketching. 
 
@@ -202,13 +202,13 @@ Here I also used standard naming conventions to feature my layers and assets in 
 ## Feedback & reflection 
 Once again, the feedback was conducted by the methodology of “How Might We” (HMW), the brainstorming of questions and answers is offered to 5 participants through Google Forms. Feedback from participants indicate their constructive views on this component and its’ features. Various answers showed that the visuals are utmost to the audience and their digital experience. They indicated that the colours are consistently used, which is appealing to the eye and have aspects of Apple interface concepts. However, insightful feedback was also returned, text field could be recreated and positioned to fit the requirements of a standard interface. The feedback and reflection for the design concept has given me a wider insight on areas of improvement, potential solution in re-designing the elements.  
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreenForm1.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreenForm1.png" width="250" height="300" /> </p>
      
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreenForm2.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreenForm2.png" width="250" height="300" /> </p>
      
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreenForm3.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreenForm3.png" width="250" height="300" /> </p>
      
 <p align="center">
 <img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen1.png" width="250" height="300" /> </p>
@@ -300,15 +300,13 @@ To successfully execute the planning and prototyping, constraints and ruler guid
 
 ## Coding 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main
-/src/Images/modalDialogueCoding.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/modalDialogueCoding.png" width="250" height="300" /> </p>
 
  
 
 ## Walkthrough 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main
-/src/Images/modalDialogueWT.gif"
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/modalDialogueWT.gif"
 
  
 
@@ -347,11 +345,11 @@ Following colours used complement each other in contrast, the primary colour - #
 ## Planning & Design prototyping  
 The animation of this type of component is to appear in a zooming motion. This will ensure that the alert is hierarchy and on top of the content behind the notification. The findability of the notification is in ease of use for the user, this is because the notification is conducted and encouraged to be acted on desirable of the user. 
 <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/notificationPalette.png"
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/notificationPalette.png"
 
 ## Coding 
 <p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/notificationCoding.png" width="250" height="300" /> </p>
+<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/notificationCoding.png" width="250" height="300" /> </p>
 
 
  
