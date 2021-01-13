@@ -96,7 +96,7 @@ The planning and prototyping of the hamburger menu does absolute minimalism. The
 
 
 ## Walkthrough 
- ![hamburger menu walkthrough](./src/Images/hamburgerMenuCodingMenuWT.gif)
+ ![hamburger menu walkthrough](./src/Images/hamburgerMenuWT.gif)
 
 ## Feedback & reflection 
 The feedback was recorded through a survey of questions. This component had constructive and reflective responses. One participant was able to recommend a visual element interesting to the eye, such as embedding imagery within the hamburger menu. To effectively manage the response, the strong innovative thinking and methodology of “How Might We” (HMV) is used to determine the atmosphere where possible solution can be discovered. In reflection, the research conducted previously was provided by resources of UXplanet and the Artonic Web, all of which revealed design principles used effectively to solve a real-life problem. The hamburger menu successfully executes the usability practices.Valuable learning experience was gained through the development of this hamburger menu, this is a modern approach to current standards of such in the creative industry.  
@@ -311,7 +311,7 @@ The animation of this type of component is to appear in a zooming motion. This w
  
 
 ## Walkthrough 
-![notification walkthrough](./src/Images/notificationWT.png)
+![notification walkthrough](./src/Images/notificationWT.gif)
 
 ## Feedback and reflection 
 
