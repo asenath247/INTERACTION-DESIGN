@@ -50,9 +50,8 @@ The COM525 is a repository that consists of component library that provide solut
 
 ### Introduction and Research 
 The introductory component is the Hamburger Menu, this is one of the fundamental elements of the user interface. It is required to provide the user with their way around, within a document, application, website etc. According to research, “Navigation is more than search” McGovern (2010), this justifies that it is a necessity for navigation to be included in most cases. The essence of the hamburger menu or sidebar specialises to directly drive the user forward to their destination of content. In this scenario, the purpose of the hamburger menu is to provide the user with insight and unity of what the remaining components. In implementation to this component, I utilised the methodology of the five-stage design thinking model by IDEO (1978) - “Emphasise, Define, Ideate, Prototype and Test”. Taking into the account of the core requirements such as - exploring the functionality and brainstorming, analysing observations and lastly being experimental with my results. All of which synthesise the concept desired. 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenu2.png" </p>
 
+![hamburger menu 2](./src/Images/hamburgerMenu2.png)
 
 ## Evaluation of guidelines  
 Hamburger menus are intended to be a smooth transition from place to place, centralisation on task-oriented access. The structure of this component is required to be most hierarchy. This system is most powerful in predictability. In study, the standard principles and elements of a Hamburger Menu is also essential in success of a basic navigation system.  
@@ -80,30 +79,24 @@ Extra elements that could be embedded to a hamburger menu could be imagery and p
 On the other hand, colours and contrast for this specific component is not too emphasised, this is because this component focuses on the navigation and destination for the user.  
 
 To revive the hamburger menu, I used the micro interaction of animation to communicate feedback and state changes to return user-initiated triggers of the systems status. I believe this is significant because it heightens the user experience.  
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenu1.png" </p>
 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenu3.png" </p>
-
+![hamburger menu 1](./src/Images/hamburgerMenu1.png)
+![hamburger menu 3](./src/Images/hamburgerMenu3.png)
 
  
 ## Planning & design prototyping 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenuWireframe.png") </p>
 
+![hamburger menu wireframe](./src/Images/hamburgerMenuWireframe.png)
 
 The planning and prototyping of the hamburger menu does absolute minimalism. The picture below depicts the prototyping and planning of interface, a regular logical approach in development has been taken to accomplish the final concept. The following are used in support of my iteration. The iPhone 8 Plus frames were created, along with plugins such as Material Design Icons. 
 
-## Coding <p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src//Images/hamburgerMenuCoding.png" width="250" height="300"/> </p>
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src//Images/hamburgerMenuCoding2.png" width="250" height="300"/> </p>
+## Coding
+ ![hamburger menu coding](./src/Images/hamburgerMenuCoding.png)
+ ![hamburger menu coding 2](./src/Images/hamburgerMenuCoding2.png)
+
 
 ## Walkthrough 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/hamburgerMenuWT.gif" </p>  
+ ![hamburger menu walkthrough](./src/Images/hamburgerMenuCodingMenuWT.gif)
 
 ## Feedback & reflection 
 The feedback was recorded through a survey of questions. This component had constructive and reflective responses. One participant was able to recommend a visual element interesting to the eye, such as embedding imagery within the hamburger menu. To effectively manage the response, the strong innovative thinking and methodology of “How Might We” (HMV) is used to determine the atmosphere where possible solution can be discovered. In reflection, the research conducted previously was provided by resources of UXplanet and the Artonic Web, all of which revealed design principles used effectively to solve a real-life problem. The hamburger menu successfully executes the usability practices.Valuable learning experience was gained through the development of this hamburger menu, this is a modern approach to current standards of such in the creative industry.  
@@ -114,21 +107,15 @@ The feedback was recorded through a survey of questions. This component had cons
 ---
 
 ## 2. Login Screen
-<p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen1.png" </p>
+![login screen 1](./src/Images/loginScreen1.png)
 
-<p align="right">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen2.png" </p>
-     
-<p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen3.png" </p>
-          
-<p align="right">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen4.png" </p>
+![login screen 2](./src/Images/loginScreen2.png) 
 
-<p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen5.png" </p>
+![login screen 3](./src/Images/loginScreen3.png)
 
+![login screen 4](./src/Images/loginScreen4.png)
+
+![login screen 5](./src/Images/loginScreen5.png)
 
 
 ### Introduction and Research
@@ -137,8 +124,9 @@ Introduction and Research
 The second component presented – the Login Screen, is the gateway to the storage of personal information by user input. It is required to provide feedback to the user in a clear and logical manner. Based on the conducted study, the execution of an accessible interface is most essential, there is a major search for high user experience and user usability. The real-world problem is based on the concept of a portal app intended for university students, the authentication of an existing profile is determined by going through the phases of signing in or creating a new account. In this case, my approach to design presents a series of methodical stages in multi-page login form.  
 
 ## Evaluation of guidelines  
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreen1Dark.png" width="250" height="300" /> </p>
+
+![login screen 1 dark](./src/Images/loginScreen1Dark.png)
+
 
 IxDA (2020), expresses the importance of interactivity between the user and the interface - “Interaction designers strive to create meaningful relationships between people and the products”.  
 
@@ -159,59 +147,42 @@ Login button
 Furthermore, extra elements can be contained, these are: other sign in options - such as google and email, commonly interlinked and incorporated in login screens to simplify the process of filling in a form. Being selective of readable fonts, layouts and avoiding the excessive use of colours and contrasts is significant in the concept of readability. In this case, I utilised the Montserrat typeface, this specific typeface was chosen as it meets the requirements of a clear and strong visual hierarchy. The four main colours chosen are displayed in the image below. This was originally chosen because I wanted to form a flexible trendy combination of a mid-pastel palette.  
 
 ## Planning & Design Prototyping 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-1.png" </p>
-     
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-2.png" </p>
-     
+![iphone 8 plus 1](./src/Images/iPhone8Plus-1.png)
 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-3.png" </p>
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-4.png" </p>
-     
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/iPhone8Plus-5.png" </p>
+![iphone 8 plus 2](./src/Images/iPhone8Plus-2.png) 
+
+![iphone 8 plus 3](./src/Images/iPhone8Plus-3.png)
+
+![iphone 8 plus 4](./src/Images/iPhone8Plus-4.png)
+
+![iphone 8 plus 5](./src/Images/iPhone8Plus-5.png)
 
 The interface elements are precisely coordinated with layout and is representative of a simplified structure. The prototyping and wireframing involves a series of development and iterative sketching. 
 
 Here I also used standard naming conventions to feature my layers and assets in a systematic approach. All components have been defined, differentiated, and effectively deployed.  
 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/Images/loginScreenPalette.png" </p>
+![loginScreenPalette](./src/Images/loginScreenPalette.png)
 
 ## Coding 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/LoginScreenCoding1.png" </p>
-     
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/LoginScreenCoding2.png" </p>
+![login screen coding](./src/Images/LoginScreenCoding1.png)
+
+![login screen coding 2](./src/Images/LoginScreenCoding2.png)
 
 ## Walkthrough 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreenWT1.gif" </p>
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreenWT2.gif" </p> 
+![login screen walkthrough](./src/Images/loginScreenWT1.gif)
+
+![login screen walkthrough 2](./src/Images/loginScreenWT2.gif)
+
 
 ## Feedback & reflection 
 Once again, the feedback was conducted by the methodology of “How Might We” (HMW), the brainstorming of questions and answers is offered to 5 participants through Google Forms. Feedback from participants indicate their constructive views on this component and its’ features. Various answers showed that the visuals are utmost to the audience and their digital experience. They indicated that the colours are consistently used, which is appealing to the eye and have aspects of Apple interface concepts. However, insightful feedback was also returned, text field could be recreated and positioned to fit the requirements of a standard interface. The feedback and reflection for the design concept has given me a wider insight on areas of improvement, potential solution in re-designing the elements.  
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreenForm1.png" width="250" height="300" /> </p>
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreenForm2.png" width="250" height="300" /> </p>
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loginScreenForm3.png" width="250" height="300" /> </p>
-     
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loginScreen1.png" width="250" height="300" /> </p>
+![login screen form 1](./src/Images/loginScreenForm1.png)
+
+![login screen form 2](./src/Images/loginScreenForm2.png)
+
+![login screen form 3](./src/Images/loginScreenForm3.png)
+
+![login screen 1](./src/Images/loginScreen1.png)
 
 [^1]IxDA. “About & History – Interaction Design Association – IxDA.” Ixda.org, 2017, ixda.org/ixda-global/about-history/#:~:text=What%20is%20interaction%20design%3F. Accessed 14 Dec. 2020.
 
@@ -220,9 +191,7 @@ Once again, the feedback was conducted by the methodology of “How Might We” 
 ---
 
 ## 3. Loader Screen
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/blob/main/src/Images/loaderScreen.gif" </p>
-
+![loader screen](./src/Images/loaderScreen.gif)
 
 ### Introduction and Research 
 The objective of the Loader Screen is to show the progress of the application loading. The user requires standard feedback about the ongoing events, this beneficial element assures where the user stands in the process. The loader Screen (also referred to as the splash screen) is described to “sets the scene for the rest of the app, inviting your users in from the cold, sterile apps that they use on a daily basis”. Campbell (2019). It’s aim is to provide immediate indication to the user, and signify the responsiveness of the functionality. “The launch screen isn’t an opportunity for artistic expression. It’s solely intended to enhance the perception of your app as quick to launch and immediately ready for use. Every app must supply a launch screen” Apple (2015). In summary, the minimal modifications are reviewed in detail. 
@@ -253,13 +222,10 @@ In development, several screens were duplicated to capture the action of this GI
 ![loader screen wireframe](./src/Images/loaderScreenWireframe.png)
 
 ## Coding 
-<p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loaderScreenCoding.png" width="250" height="300" /> </p>
-
+![loader screen coding](./src/Images/loaderScreenCoding.png)
 
 ## Walkthrough 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/loaderScreen.gif" </p>
+![loader screen walkthrough](./src/Images/loaderScreen.gif)
 
 ## Feedback & reflection 
 This component successfully and appropriately solved a real-life problem. In this instance, the user has been communicated to inform and reassure in a speedily manner. In addition to this, the user is also attentive of the motion in this component, the psychological principles of user engagement such as feedback, is expressed to give full information of the current state of the screen. All research has been in impactful in understanding the users needs or services, significant insights have been discovered, and so all elements work together to craft the best solution. The previous research conducted is used in best practices of designing and implementation.
@@ -270,8 +236,7 @@ This component successfully and appropriately solved a real-life problem. In thi
 
 
 ## 4. Modal Dialogue  
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/modalDialogue.png" </p> 
+![modal dialogue](./src/Images/modalDialogue.png)
 
 ### Introduction and Ressearch
 As stated by Material UI, “The modal component provides a solid foundation for creating dialogues, popovers and light boxes.” This type of dialogue component is executed too keep visible whilst the background is faded, transparent with the colour grey. Additionally, the word “dialogue” depicts a conversation in this instance, the modal is in conversation with the user, this is because the user requests for information and the modal dialogue approves of that request in return. Additionally, Fessenden (2017) mentions that “Metal dialogues can be used to fragment a complex workflow into simpler steps ”. Fundamentally the modal dialogue principalities include a centred and direct window. 
@@ -290,23 +255,16 @@ In terms of accessibility, this modal dialogue enlightens the user with informat
  
 
 ## Planning and design prototyping 
-
 To successfully execute the planning and prototyping, constraints and ruler guidelines are used to have a systematic layout. The simple use of wireframing and fidelity sketching in Figma convey the development of my ideation. Using geometric shape elements such as rectangles to build an illustration. To follow the creative industry standards, my concept follows a subtle, minimalistic theme. Bernadino (2020) at UX collective states that -  “the minimalist design concept invites you to embrace the emptiness and to use it as part of your art.” 
-
-
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/modalDialoguePalette.png"
- 
+![modal dialogue palette](./src/Images/modalDialoguePalette.png)
 
 ## Coding 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/modalDialogueCoding.png" width="250" height="300" /> </p>
+![modal dialogue coding](./src/Images/modalDialogueCoding.png)
 
  
 
 ## Walkthrough 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/modalDialogueWT.gif"
+![modal dialogue walkthrough](./src/Images/modalDialogueWT.gif)
 
  
 
@@ -331,9 +289,8 @@ The last reusable component designed is Notifications and Alerts. “A notificat
 The use of notifications enhances the communicative form of feedback to user experience and the user interface it's less intrusive and keep users up to date with live updates, proactively help users gain information awareness and other alerts. The best practices for a static design consist of a pop-visual, with text and options for the user to choose from. 
 
 Studies have shown that notifications occur and perhaps interrupt the user with their ongoing tasks. This will occasionally distract and suspend the user from previous actions and possibly open and seek more information about the notification displayed.  
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/notification.png" </p>
 
+![notification](./src/Images/notification.png)
 
 ## Evaluation of guidelines 
 Embarking on the principles for a notification design requires the best for current industry guidelines. The key principles such as, the information communicated, the level of urgency and if action is required, are all considered when design such a component. For instance, the design chosen alerts the user that the storage of the device is full. Users can act on this motivation or move on to sort it out in another time, but this type of notification may regularly occur in reminder for the user. The specific typeface used for this is – Red Hat Display. This was once again chosen to propose big statements which has a clear readability and accessibility.  
@@ -344,20 +301,17 @@ Following colours used complement each other in contrast, the primary colour - #
 
 ## Planning & Design prototyping  
 The animation of this type of component is to appear in a zooming motion. This will ensure that the alert is hierarchy and on top of the content behind the notification. The findability of the notification is in ease of use for the user, this is because the notification is conducted and encouraged to be acted on desirable of the user. 
-<p align="center">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/notificationPalette.png"
+
+![notification](./src/Images/notificationPalette.png)
 
 ## Coding 
-<p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/notificationCoding.png" width="250" height="300" /> </p>
 
+![notification coding](./src/Images/notificationCoding.png)
 
  
 
 ## Walkthrough 
-<p align="left">
-<img src="https://github.com/asenath247/INTERACTION-DESIGN/main/src/Images/notificationWT.gif"
- 
+![notification walkthrough](./src/Images/notificationWT.png)
 
 ## Feedback and reflection 
 
